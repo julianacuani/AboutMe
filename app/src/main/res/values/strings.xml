@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">AboutMe</string>
     <string name="name">Juliana</string>
+    <string name="yellow_star">estrela amarela</string>
+    <string name="bio_text">Formada em Mecatrônica Industrial migrando para a área de desenvolvimento. \n
+        Tenho conhecimetos em linguagens e recursos <b>front end </b> mas atualmente estou aprendendo <b>desenvolvimento android.</b> \n
+    Procuro uma oportunidade para aprimorar minhas habilidades e ajudar a empresa a crescer e se desenvolver. bla \n
+    bla \n bla \n bla \n bla \n bla \n bla \n bla \n bla \n bla \n bla \n bla \n bla</string>
 </resources>
